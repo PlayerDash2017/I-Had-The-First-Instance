@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"trgRotate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"trgRotate",
+  "parent":{
+    "name":"Trigger",
+    "path":"folders/Scripts/Trigger.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

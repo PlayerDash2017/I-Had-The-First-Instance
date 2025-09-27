@@ -1,0 +1,2 @@
+smooth = true;
+roomTo = rSample;

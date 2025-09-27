@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrTernary",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrTernary",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Scripts/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,2 @@
+roomTo = rCherryBoss;
+autosave = true;

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"trgTemplate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"trgTemplate",
+  "parent":{
+    "name":"Trigger",
+    "path":"folders/Scripts/Trigger.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

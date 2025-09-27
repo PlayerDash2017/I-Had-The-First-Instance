@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"optTemplate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"optTemplate",
+  "parent":{
+    "name":"Options",
+    "path":"folders/Scripts/Options.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

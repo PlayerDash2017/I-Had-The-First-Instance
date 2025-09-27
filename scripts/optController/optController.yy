@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"optController",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"optController",
+  "parent":{
+    "name":"Options",
+    "path":"folders/Scripts/Options.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

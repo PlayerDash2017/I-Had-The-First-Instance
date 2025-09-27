@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrDrawOption",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrDrawOption",
+  "parent":{
+    "name":"Menu",
+    "path":"folders/Scripts/Menu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

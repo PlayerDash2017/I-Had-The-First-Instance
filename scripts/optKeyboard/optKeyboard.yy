@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"optKeyboard",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"optKeyboard",
+  "parent":{
+    "name":"Options",
+    "path":"folders/Scripts/Options.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

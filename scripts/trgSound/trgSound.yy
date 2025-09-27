@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"trgSound",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"trgSound",
+  "parent":{
+    "name":"Trigger",
+    "path":"folders/Scripts/Trigger.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

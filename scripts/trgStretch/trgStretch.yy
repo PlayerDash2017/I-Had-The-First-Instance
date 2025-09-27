@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"trgStretch",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"trgStretch",
+  "parent":{
+    "name":"Trigger",
+    "path":"folders/Scripts/Trigger.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

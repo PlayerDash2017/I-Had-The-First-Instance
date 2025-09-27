@@ -1,0 +1,627 @@
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrInitializeGlobals\scrInitializeGlobals.gml
+Converted description /// @description scrInitializeGlobals()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrSetGlobalOptions\scrSetGlobalOptions.gml
+Converted description /// @description Sets configurable global options
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrSetRoomCaption\scrSetRoomCaption.gml
+Converted description /// @description scrSetRoomCaption()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrRestartGame\scrRestartGame.gml
+Converted description /// @description scrRestartGame()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrSetVsync\scrSetVsync.gml
+Converted description /// @description scrSetVsync()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrResetWindowSize\scrResetWindowSize.gml
+Converted description /// @description scrResetWindowSize()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrCheckAndPause\scrCheckAndPause.gml
+Converted description /// @description scrCheckAndPause()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrDynamicCollision\scrDynamicCollision.gml
+Converted description /// @description scrDynamicCollision(setup, [crushed script], [arg])/// @param setup
+/// @param  [crushed script]
+/// @param  [arg]
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrSaveConfig\scrSaveConfig.gml
+Converted description /// @description scrSaveConfig()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrLoadConfig\scrLoadConfig.gml
+Converted description /// @description scrLoadConfig()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrSaveGame\scrSaveGame.gml
+Converted description /// @description scrSaveGame(saveposition)/// @param saveposition
+String not found: ConversionLog_ConvertedString 69 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 73 "Data\save" "Data\\save"
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrLoadGame\scrLoadGame.gml
+Converted description /// @description scrLoadGame(loadfile)/// @param loadfile
+String not found: ConversionLog_ConvertedString 13 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 17 "Data\save" "Data\\save"
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrValidateSaveMap\scrValidateSaveMap.gml
+Converted description /// @description scrValidateSaveMap(map)/// @param map
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrStartNewGame\scrStartNewGame.gml
+Converted description /// @description scrStartNewGame(difficulty)/// @param difficulty
+String not found: ConversionLog_ConvertedString 11 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 13 "Data\save" "Data\\save"
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrDrawButtonInfo\scrDrawButtonInfo.gml
+Converted description /// @description scrDrawButtonInfo(optionsText)/// @param optionsText
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrDrawOption\scrDrawOption.gml
+Converted builtin - line 12: view_wview -> __view_get( e__VW.WView, 0 )
+Converted description /// @description scrDrawOption(name, value)/// @param name
+/// @param  value
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrOptionsList\scrOptionsList.gml
+Converted description /// @description scrOptionsList()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\optTemplate\optTemplate.gml
+Converted description /// @description optTemplate(type)/// @param type
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\optMusic\optMusic.gml
+Converted description /// @description optMusic(type)/// @param type
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\optVolume\optVolume.gml
+Converted description /// @description optVolume(type)/// @param type
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\optFullscreen\optFullscreen.gml
+Converted description /// @description optFullscreen(type)/// @param type
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\optSmoothing\optSmoothing.gml
+Converted description /// @description optSmoothing(type)/// @param type
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\optVSync\optVSync.gml
+Converted description /// @description optVSync(type)/// @param type
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\optKeyboard\optKeyboard.gml
+Converted description /// @description optKeyboard(type)/// @param type
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\optController\optController.gml
+Converted description /// @description optController(type)/// @param type
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\optGodzilla\optGodzilla.gml
+Converted description /// @description optGodzilla(type)/// @param type
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrGetMusic\scrGetMusic.gml
+Converted description /// @description scrGetMusic()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrPlayMusic\scrPlayMusic.gml
+Converted description /// @description scrPlayMusic(soundid, loops)/// @param soundid
+/// @param  loops
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrStopMusic\scrStopMusic.gml
+Converted description /// @description scrStopMusic()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrToggleMusic\scrToggleMusic.gml
+Converted description /// @description scrToggleMusic()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrLoadMusic\scrLoadMusic.gml
+Converted description /// @description scrLoadMusic(name)/// @param name
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrPlayerJump\scrPlayerJump.gml
+Converted description /// @description scrPlayerJump()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrPlayerReleaseJump\scrPlayerReleaseJump.gml
+Converted description /// @description ScrPlayerReleaseJump()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrPlayerShoot\scrPlayerShoot.gml
+Converted description /// @description scrPlayerShoot
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrSetPlayerMask\scrSetPlayerMask.gml
+Converted description /// @description scrSetPlayerMask
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrKillPlayer\scrKillPlayer.gml
+Converted description /// @description scrKillPlayer()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrFlipGrav\scrFlipGrav.gml
+Converted description /// @description scrFlipGrav()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrHitPlayer\scrHitPlayer.gml
+Converted description /// @description scrHitPlayer()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrMakeTrigger\scrMakeTrigger.gml
+Converted description /// @description scrMakeTrigger([trg])/// @param [trg]
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrUsesTrigger\scrUsesTrigger.gml
+Converted description /// @description scrUsesTrigger(script)/// @param script
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrTriggerList\scrTriggerList.gml
+Converted description /// @description scrTriggerList()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\trgTemplate\trgTemplate.gml
+Converted description /// @description trgTemplate(type/value)/// @param type/value
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\trgMove\trgMove.gml
+Converted description /// @description trgMove(type/hspeed, vspeed)/// @param type/hspeed
+/// @param  vspeed
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\trgMoveDir\trgMoveDir.gml
+Converted description /// @description trgMoveDir(type/dir, speed)/// @param type/dir
+/// @param  speed
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\trgMoveTo\trgMoveTo.gml
+Converted description /// @description trgMoveTo(type/x pos, y pos, speed, [easing], [relative])/// @param type/x pos
+/// @param  y pos
+/// @param  speed
+/// @param  [easing]
+/// @param  [relative]
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\trgPath\trgPath.gml
+Converted description /// @description trgPath(type/index, speed, [action], [absolute], [position])/// @param type/index
+/// @param  speed
+/// @param  [action]
+/// @param  [absolute]
+/// @param  [position]
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\trgGravity\trgGravity.gml
+Converted description /// @description trgGravity(type/gravity, [direction])/// @param type/gravity
+/// @param  [direction]
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\trgSound\trgSound.gml
+Converted description /// @description trgSound(type/sound, [volume])/// @param type/sound
+/// @param  [volume]
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\trgFade\trgFade.gml
+Converted description /// @description trgFade(type/type, [time], [easing])/// @param type/type
+/// @param  [time]
+/// @param  [easing]
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\trgStretch\trgStretch.gml
+Converted description /// @description trgStretch(type/x scale, y scale, [time], [easing])/// @param type/x scale
+/// @param  y scale
+/// @param  [time]
+/// @param  [easing]
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\trgRotate\trgRotate.gml
+Converted description /// @description trgRotate(type/degrees, speed)/// @param type/degrees
+/// @param  speed
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\trgUser\trgUser.gml
+Converted description /// @description trgUser(type/[event], [with])/// @param type/[event]
+/// @param  [with]
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\trgScript\trgScript.gml
+Converted description /// @description trgScript(type/script, [with], [arg0], [arg1], [arg2])/// @param type/script
+/// @param  [with]
+/// @param  [arg0]
+/// @param  [arg1]
+/// @param  [arg2]
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrControls\scrControls.gml
+Converted description /// @description scrControls(type)/// @param type
+String not found: ConversionLog_ConvertedString 41 'Z' "Z"
+String not found: ConversionLog_ConvertedString 42 'R' "R"
+String not found: ConversionLog_ConvertedString 43 'S' "S"
+String not found: ConversionLog_ConvertedString 44 'Q' "Q"
+String not found: ConversionLog_ConvertedString 45 'P' "P"
+String not found: ConversionLog_ConvertedString 46 'A' "A"
+String not found: ConversionLog_ConvertedString 47 'D' "D"
+String not found: ConversionLog_ConvertedString 53 'Z' "Z"
+String not found: ConversionLog_ConvertedString 71 'A' "A"
+String not found: ConversionLog_ConvertedString 72 'D' "D"
+String not found: ConversionLog_ConvertedString 146 'Z' "Z"
+String not found: ConversionLog_ConvertedString 147 'R' "R"
+String not found: ConversionLog_ConvertedString 148 'S' "S"
+String not found: ConversionLog_ConvertedString 149 'Q' "Q"
+String not found: ConversionLog_ConvertedString 150 'P' "P"
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrAnyControllerButton\scrAnyControllerButton.gml
+Converted description /// @description scrAnyControllerButton()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrButtonCheck\scrButtonCheck.gml
+Converted description /// @description scrButtonCheck(button)/// @param button
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrButtonCheckPressed\scrButtonCheckPressed.gml
+Converted description /// @description scrButtonCheckPressed(button)/// @param button
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrButtonCheckReleased\scrButtonCheckReleased.gml
+Converted description /// @description scrButtonCheckReleased(button)/// @param button
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrGetKeybind\scrGetKeybind.gml
+Converted description /// @description scrGetKeybind(key,[default])/// @param key
+/// @param [default]
+String not found: ConversionLog_ConvertedString 73 "\" "\\"
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrGetControllerBind\scrGetControllerBind.gml
+Converted description /// @description scrGetControllerBind(buttonIndex,[default])/// @param buttonIndex
+/// @param [default]
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrCheckAndSwitchController\scrCheckAndSwitchController.gml
+Converted description /// @description scrCheckAndSwitchController()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrDrawTextOutline\scrDrawTextOutline.gml
+Converted description /// @description scrDrawTextOutline(x, y, string, textcolor, outlinecolor)/// @param x
+/// @param  y
+/// @param  string
+/// @param  textcolor
+/// @param  outlinecolor
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrInRange\scrInRange.gml
+Converted description /// @description scrInRange(val, min, max)/// @param val
+/// @param  min
+/// @param  max
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrWrapInRange\scrWrapInRange.gml
+Converted description /// @description scrWrapInRange(val, a, b)/// @param val
+/// @param  a
+/// @param  b
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrTernary\scrTernary.gml
+Converted description /// @description scrTernary(condition, return if true, return if false)/// @param condition
+/// @param  return if true
+/// @param  return if false
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrMakeShapes\scrMakeShapes.gml
+Converted description /// @description scrMakeShapes(x, y, angle, edges, numprojectiles, speed, obj)/// @param x
+/// @param  y
+/// @param  angle
+/// @param  edges
+/// @param  numprojectiles
+/// @param  speed
+/// @param  obj
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrMakeCircle\scrMakeCircle.gml
+Converted description /// @description scrMakeCircle(x,y,angle,numprojectiles,speed,obj)/// @param x
+/// @param y
+/// @param angle
+/// @param numprojectiles
+/// @param speed
+/// @param obj
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrEaseValue\scrEaseValue.gml
+Converted description /// @description scrEaseValue(val, type)/// @param val
+/// @param  type
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrFormat\scrFormat.gml
+Converted description /// @description scrFormat(string)/// @param string
+String not found: ConversionLog_ConvertedString 20 '{' "{"
+String not found: ConversionLog_ConvertedString 23 '}' "}"
+String not found: ConversionLog_ConvertedString 62 '}' "}"
+String not found: ConversionLog_ConvertedString 65 '.' "."
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrDrawBlend\scrDrawBlend.gml
+Converted description /// @description scrDrawBlend()
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrPX\scrPX.gml
+Converted description /// @description scrPX();
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrPY\scrPY.gml
+Converted description /// @description scrPY();
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrScale\scrScale.gml
+Converted description /// @description scrScale(xscale,yscale)/// @param xscale
+/// @param yscale
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrCreateLight\scrCreateLight.gml
+Converted description /// @description scrCreateLight(speed,[color],[alphaStart])/// @param speed
+/// @param [color]
+/// @param [alphaStart]
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\scripts\scrKeyGetName\scrKeyGetName.gml
+Converted description /// @description scrKeyGetName(input id):string/// @param input id
+
+GameMaker Studio 1 font texture has been backed up at C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\fonts\fDefault30\fDefault30.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\fonts\fDefault24\fDefault24.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\fonts\fDefault18\fDefault18.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\fonts\fDefault12\fDefault12.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\fonts\fSuitmationTrial\fSuitmationTrial.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\fonts\fResult\fResult.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\fonts\fBack\fBack.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\fonts\fHitCount\fHitCount.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\fonts\fPracticeMenu\fPracticeMenu.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\fonts\fClear\fClear.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\fonts\fTitleScreen\fTitleScreen.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\fonts\fPressStart\fPressStart.gms1.png
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objWorld\Create_0.gml
+Converted description /// @description Make sure only 1 objWorld exists
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objWorld\Alarm_1.gml
+Converted description /// @description Return to previous window position/size (after using display_reset)/// @param after using display_reset
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objWorld\Alarm_0.gml
+Converted description /// @description Pause current music after fadeout ends
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objWorld\Step_0.gml
+Converted description /// @description Game checks - Pause, restart
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objWorld\Other_10.gml
+Converted description /// @description Fade current music out
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objWorld\Other_4.gml
+Converted description /// @description Set music, framerate, and window caption
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objWorld\Other_2.gml
+Converted description /// @description Initialize everything
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objWorld\Draw_73.gml
+Converted description /// @description Smoothing mode fix
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objWorld\Draw_72.gml
+Converted description /// @description Smoothing mode fix
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objWorld\Draw_64.gml
+Converted builtin - line 122: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted description /// @description Draw update + debug overlay
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objCamera\Step_2.gml
+Converted description /// @description event_user(0)/// @param 0
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objCamera\Other_10.gml
+Converted builtin - line 40: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 32: view_xview[0] = targetX -> __view_set( e__VW.XView, 0, targetX )
+Converted builtin - line 41: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 33: view_yview[0] = targetY -> __view_set( e__VW.YView, 0, targetY )
+Converted description /// @description Move camera
+Converted builtin - line 40: view_xview[0] = lerp(__view_get( e__VW.XView, 0 ), targetX, smoothLerp) -> __view_set( e__VW.XView, 0, lerp(__view_get( e__VW.XView, 0 ), targetX, smoothLerp) )
+Converted builtin - line 41: view_yview[0] = lerp(__view_get( e__VW.YView, 0 ), targetY, smoothLerp) -> __view_set( e__VW.YView, 0, lerp(__view_get( e__VW.YView, 0 ), targetY, smoothLerp) )
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objCamera\Draw_72.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_angle -> __view_get( e__VW.Angle, 0 )
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objCamera\Draw_0.gml
+Converted description /// @description Don't draw self
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objPlayMusic\Other_4.gml
+Converted description /// @description Play room music
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objTitleMenu\Step_0.gml
+Converted description /// @description Check and move to file menu
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objTitleMenu\Draw_0.gml
+Converted description /// @description Draw debug mode text when we're on the title screen
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objDifficultyMenu\Create_0.gml
+Converted description /// @description Initiailze menu variables
+String not found: ConversionLog_ConvertedString 19 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 29 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 33 "Data\save" "Data\\save"
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objDifficultyMenu\Step_0.gml
+Converted description /// @description Navigate menu
+String not found: ConversionLog_ConvertedString 78 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 83 "Data\save" "Data\\save"
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objDifficultyMenu\Draw_0.gml
+Converted description /// @description Draw all save info text
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objKeyboardControlsMenu\Alarm_0.gml
+Converted description /// @description Stop reset prompt
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objKeyboardControlsMenu\Other_10.gml
+Converted description /// @description Update current binds
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objControllerMenu\Alarm_0.gml
+Converted description /// @description Stop reset prompt
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objControllerMenu\Other_10.gml
+Converted description /// @description Update current binds
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objPlayerStart\Other_4.gml
+Converted description /// @description Create player if it doesn't exist
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objPlayer\Destroy_0.gml
+Converted description /// @description  Destroy the bow
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objPlayer\Step_2.gml
+Converted description /// @description Resolve collisions between step and now, collide with dynamic blocks
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objPlayer\Step_0.gml
+Converted description /// @description Player actions and movement
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objPlayer\Collision_2a6f7260-e867-4ad7-a2e9-196dca2845db.gml
+Converted description /// @description Land on platforms, get snapped
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objPlayer\Other_4.gml
+Converted description /// @description Autosave
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objPlayer\Draw_0.gml
+Converted description /// @description  Draw the player
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objBow\Step_2.gml
+Converted description /// @description Stay with the player
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objBow\Draw_0.gml
+Converted description /// @description Draw at rounded coordinates
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objGameOver\Draw_0.gml
+Converted description /// @description Don't draw self
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objDeathExplosion\Draw_0.gml
+Converted description /// @description nothing
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objGodzillaGameOver\Draw_73.gml
+Converted builtin - line 20: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 20: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted builtin - line 20: view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Converted builtin - line 20: view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+Converted builtin - line 20: view_angle[view_current] -> __view_get( e__VW.Angle, view_current )
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objGodzillaDoll\Draw_0.gml
+Converted description /// @description nothing
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objBlockDynamic\Create_0.gml
+Converted description /// @description Initialize variables
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objBlockDynamic\Step_1.gml
+Converted description /// @description Set old boundary variables for this frame's collision
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objBlockDynamic\Other_11.gml
+Converted description /// @description Push instance
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objBlockDynamic\Other_10.gml
+Converted description /// @description Carry instance
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objPlatform\Step_0.gml
+Converted description /// @description Bounce off walls, carry the player horizontally and upwards
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objMiku\Other_11.gml
+Converted description /// @description makes triangles
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objMiku\Other_10.gml
+Converted description /// @description makes squares
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objTriggerManager\Destroy_0.gml
+Converted description /// @description Cleanup
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objTriggerManager\Other_13.gml
+Converted description /// @description Trigger step
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objTriggerManager\Other_12.gml
+Converted description /// @description Trigger first frame
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objTriggerManager\Other_11.gml
+Converted description /// @description Move affected instance
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objTriggerManager\Other_10.gml
+Converted description /// @description Init
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objTriggerButtonR\Other_10.gml
+Converted description /// @description  Press the button
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objTriggerButtonR\Other_4.gml
+Converted description /// @description  Reset the trigger
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objSave\Collision_8c5ad621-4528-4191-99bb-97ddd1fd4df0.gml
+Converted description /// @description  Z-Save behavior
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objSave\Other_10.gml
+Converted description /// @description Save the game
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objWarpStart\Collision_aaf67249-4fbf-463b-8062-e0cc3228b9e3.gml
+String not found: ConversionLog_ConvertedString 3 "Data\save" "Data\\save"
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objRoomChanger\Other_10.gml
+Converted description /// @description Teleport player
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objGameClear\Collision_6dc8a97f-7e05-43c3-bb2d-adacfc8b3d73.gml
+Converted description /// @description set game to clear and autosave when touched
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objMainAvoidance\Alarm_1.gml
+Converted description /// @description Burst
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objMainAvoidance\Alarm_0.gml
+Converted description /// @description Speed Intro
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objMainAvoidance\Step_0.gml
+Converted builtin - line 579: background_index[0] = bClouds -> __background_set( e__BG.Index, 0, bClouds )
+Converted builtin - line 584: background_index[1] = bMoreClouds -> __background_set( e__BG.Index, 1, bMoreClouds )
+Converted builtin - line 580: background_xscale[0] = 800/background_get_width(bClouds) -> __background_set( e__BG.XScale, 0, 800/background_get_width(bClouds) )
+Converted builtin - line 581: background_yscale[0] = 608/background_get_height(bClouds) -> __background_set( e__BG.YScale, 0, 608/background_get_height(bClouds) )
+Converted builtin - line 585: background_hspeed[1] = 0.5 -> __background_set( e__BG.HSpeed, 1, 0.5 )
+Converted builtin - line 633: background_alpha[0] -> __background_get( e__BG.Alpha, 0 )
+Converted builtin - line 634: background_alpha[1] -> __background_get( e__BG.Alpha, 1 )
+Converted builtin - line 582: background_alpha[0] = 0 -> __background_set( e__BG.Alpha, 0, 0 )
+Converted builtin - line 586: background_alpha[1] = 0.3 -> __background_set( e__BG.Alpha, 1, 0.3 )
+Converted builtin - line 614: background_alpha[0] = 0.4 + lengthdir_x(0.25,global.count*2) -> __background_set( e__BG.Alpha, 0, 0.4 + lengthdir_x(0.25,global.count*2) )
+Converted builtin - line 1058: view_xview[0] = irandom_range(-2,2) -> __view_set( e__VW.XView, 0, irandom_range(-2,2) )
+Converted builtin - line 1064: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 1072: view_xview[0] = irandom_range(-2,2) -> __view_set( e__VW.XView, 0, irandom_range(-2,2) )
+Converted builtin - line 1083: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 1092: view_xview[0] = irandom_range(-2,2) -> __view_set( e__VW.XView, 0, irandom_range(-2,2) )
+Converted builtin - line 1128: view_xview[0] = (Zoom-1)*-400 -> __view_set( e__VW.XView, 0, (Zoom-1)*-400 )
+Converted builtin - line 1134: view_xview[0] += irandom_range(-2,2) -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (irandom_range(-2,2)) )
+Converted builtin - line 1159: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 1175: view_xview[0] = irandom_range(-2,2) -> __view_set( e__VW.XView, 0, irandom_range(-2,2) )
+Converted builtin - line 1181: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 1206: view_xview[0] = irandom_range(-2,2) -> __view_set( e__VW.XView, 0, irandom_range(-2,2) )
+Converted builtin - line 1212: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 1236: view_xview[0] = irandom_range(-2,2) -> __view_set( e__VW.XView, 0, irandom_range(-2,2) )
+Converted builtin - line 1243: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 1251: view_xview[0] = irandom_range(-2,2) -> __view_set( e__VW.XView, 0, irandom_range(-2,2) )
+Converted builtin - line 1286: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 486: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 529: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 685: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1223: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 692: view_yview[0] = -5 -> __view_set( e__VW.YView, 0, -5 )
+Converted builtin - line 756: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 1001: view_yview[0] = irandom_range(-3,3) -> __view_set( e__VW.YView, 0, irandom_range(-3,3) )
+Converted builtin - line 1036: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 1059: view_yview[0] = irandom_range(-2,2) -> __view_set( e__VW.YView, 0, irandom_range(-2,2) )
+Converted builtin - line 1065: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 1073: view_yview[0] = irandom_range(-2,2) -> __view_set( e__VW.YView, 0, irandom_range(-2,2) )
+Converted builtin - line 1084: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 1093: view_yview[0] = irandom_range(-2,2) -> __view_set( e__VW.YView, 0, irandom_range(-2,2) )
+Converted builtin - line 1129: view_yview[0] = (Zoom-1)*-304 -> __view_set( e__VW.YView, 0, (Zoom-1)*-304 )
+Converted builtin - line 1135: view_yview[0] += irandom_range(-2,2) -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + (irandom_range(-2,2)) )
+Converted builtin - line 1160: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 1176: view_yview[0] = irandom_range(-2,2) -> __view_set( e__VW.YView, 0, irandom_range(-2,2) )
+Converted builtin - line 1182: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 1207: view_yview[0] = irandom_range(-2,2) -> __view_set( e__VW.YView, 0, irandom_range(-2,2) )
+Converted builtin - line 1213: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 1237: view_yview[0] = 400 + irandom_range(-2,2) -> __view_set( e__VW.YView, 0, 400 + irandom_range(-2,2) )
+Converted builtin - line 1244: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 1252: view_yview[0] = irandom_range(-2,2) -> __view_set( e__VW.YView, 0, irandom_range(-2,2) )
+Converted builtin - line 1287: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 1130: view_wview[0] = 800 * Zoom -> __view_set( e__VW.WView, 0, 800 * Zoom )
+Converted builtin - line 1161: view_wview[0] = 800 -> __view_set( e__VW.WView, 0, 800 )
+Converted builtin - line 1131: view_hview[0] = 608 * Zoom -> __view_set( e__VW.HView, 0, 608 * Zoom )
+Converted builtin - line 1162: view_hview[0] = 608 -> __view_set( e__VW.HView, 0, 608 )
+Converted description /// @description System
+Converted builtin - line 633: background_alpha[0] = max(__background_get( e__BG.Alpha, 0 ) - 1/75,0) -> __background_set( e__BG.Alpha, 0, max(__background_get( e__BG.Alpha, 0 ) - 1/75,0) )
+Converted builtin - line 634: background_alpha[1] = max(__background_get( e__BG.Alpha, 1 ) - 1/75,0) -> __background_set( e__BG.Alpha, 1, max(__background_get( e__BG.Alpha, 1 ) - 1/75,0) )
+Converted builtin - line 486: view_yview[0] = lerp(__view_get( e__VW.YView, 0 ),400,0.2) -> __view_set( e__VW.YView, 0, lerp(__view_get( e__VW.YView, 0 ),400,0.2) )
+Converted builtin - line 529: view_yview[0] = lerp(__view_get( e__VW.YView, 0 ),0,0.2) -> __view_set( e__VW.YView, 0, lerp(__view_get( e__VW.YView, 0 ),0,0.2) )
+Converted builtin - line 685: view_yview[0] = lerp(__view_get( e__VW.YView, 0 ),0,0.2) -> __view_set( e__VW.YView, 0, lerp(__view_get( e__VW.YView, 0 ),0,0.2) )
+Converted builtin - line 1223: view_yview[0] = lerp(__view_get( e__VW.YView, 0 ),400,0.3) -> __view_set( e__VW.YView, 0, lerp(__view_get( e__VW.YView, 0 ),400,0.3) )
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objBulletView\Other_0.gml
+Converted description /// @description nothing
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objBulletOutsideView\Other_0.gml
+Converted description /// @description nothing
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objBulletFinalSlow\Other_0.gml
+Converted description /// @description nothing
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objBulletFinalSpam\Other_0.gml
+Converted description /// @description Nothing
+
+Converting GML script: C:\Users\MIKU03\Desktop\My Engines\GMStudio\The First Instance.gmx\mvc\objects\objInfoWaiting\Step_0.gml
+String not found: ConversionLog_ConvertedString 2 'S' "S"
+String not found: ConversionLog_ConvertedString 9 'H' "H"
+
+Missing audiogroup for sound: 'sndJump' - setting to default audio group
+Missing audiogroup for sound: 'sndDJump' - setting to default audio group
+Missing audiogroup for sound: 'sndWallJump' - setting to default audio group
+Missing audiogroup for sound: 'sndShoot' - setting to default audio group
+Missing audiogroup for sound: 'sndDeath' - setting to default audio group
+Missing audiogroup for sound: 'sndItem' - setting to default audio group
+Missing audiogroup for sound: 'sndBlockChange' - setting to default audio group
+Missing audiogroup for sound: 'sndBossHit' - setting to default audio group
+Missing audiogroup for sound: 'sndCherry' - setting to default audio group
+Missing audiogroup for sound: 'sndGlass' - setting to default audio group
+Missing audiogroup for sound: 'sndSpikeTrap' - setting to default audio group
+Missing audiogroup for sound: 'sndSelect' - setting to default audio group
+Missing audiogroup for sound: 'musOnDeath' - setting to default audio group
+Missing audiogroup for sound: 'musOnDeathGodzilla' - setting to default audio group
+Game speed set to 50
+Added compatibility script 'action\action_kill_object.gml'
+Added compatibility script 'background\background_get_height.gml'
+Added compatibility script 'background\background_get_width.gml'
+Added compatibility script 'background\__background_get.gml'
+Added compatibility script 'background\__background_get_element.gml'
+Added compatibility script 'background\__background_get_internal.gml'
+Added compatibility script 'background\__background_set.gml'
+Added compatibility script 'background\__background_set_element.gml'
+Added compatibility script 'background\__background_set_internal.gml'
+Added compatibility script 'd3d\d3d_set_projection_ortho.gml'
+Added compatibility script 'draw\draw_set_blend_mode.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'texture\texture_set_interpolation.gml'
+Added compatibility script 'view\__view_get.gml'
+Added compatibility script 'view\__view_set.gml'
+Added compatibility script 'view\__view_set_internal.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script 'background\__init_background.gml'
+Added compatibility script 'd3d\__init_d3d.gml'
+Added compatibility script 'view\__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

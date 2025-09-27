@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrStopMusic",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrStopMusic",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Scripts/Music.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

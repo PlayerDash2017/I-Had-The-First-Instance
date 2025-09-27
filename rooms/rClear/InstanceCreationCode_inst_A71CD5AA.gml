@@ -1,0 +1,2 @@
+textUp = "";
+textDown = "JewelBG";

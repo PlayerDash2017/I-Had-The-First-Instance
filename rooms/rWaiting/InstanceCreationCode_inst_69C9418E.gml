@@ -1,0 +1,1 @@
+text = "Press '1' to change the skin."

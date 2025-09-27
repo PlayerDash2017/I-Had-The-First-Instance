@@ -1,0 +1,28 @@
+/// @description scrMakeCircle(x,y,angle,numprojectiles,speed,obj)
+/// @param x
+/// @param y
+/// @param angle
+/// @param numprojectiles
+/// @param speed
+/// @param obj
+function scrMakeCircle(argument0, argument1, argument2, argument3, argument4, argument5) {
+	//Spawns a ring of projectiles
+
+	var spawnX = argument0;
+	var spawnY = argument1;
+	var spawnAngle = argument2;
+	var spawnNum = argument3;
+	var spawnSpeed = argument4;
+	var spawnObj = argument5;
+	var a;
+
+	for (var i = 0; i < spawnNum; i += 1)
+	{
+	    a = instance_create(spawnX, spawnY, spawnObj);
+	    a.speed = spawnSpeed;
+	    a.direction = spawnAngle + i * (360 / spawnNum);
+	}
+
+
+
+}
